@@ -1,0 +1,7 @@
+{
+  "name": "HIMS Payroll & Benefits Management",
+  "description": "Hospital Information Management System (HIMS) Payroll & Benefits Management Module for Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium (DJNRMHS) with AI-Assisted Payroll Anomaly Detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
